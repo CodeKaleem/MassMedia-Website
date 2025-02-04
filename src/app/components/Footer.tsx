@@ -15,7 +15,7 @@ export default function Footer() {
         
         <motion.div
           className="w-full md:w-full h-[600px] md:h-full rounded-lg bg-cover bg-center "
-          style={{ backgroundImage: "url('')" }}
+          style={{ backgroundImage: "url('https://c1.wallpaperflare.com/preview/1006/821/96/camera-camera-system-sony-lens-photography-photograph.jpg')" }}
           initial={{ opacity: 0 ,y:70}}
           animate={{ opacity: 1 }}
           whileInView={{opacity:1,y:0}}
