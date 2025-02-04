@@ -45,7 +45,7 @@ export default function Home1() {
             We Make Only Authentic Visual Experiences
           </motion.h1>
           <br />
-          <motion.p className="text-sm md:text-lg mt-4" initial={{ opacity: 0 , y:70 }} transition={{ duration: 1 }} whileInView={{opacity:1 ,y:0}}>
+          <motion.p className="text-sm md:text-lg mt-4 w-[800px] text-justify" initial={{ opacity: 0 , y:70 }} transition={{ duration: 1 }} whileInView={{opacity:1 ,y:0}}>
           At Mass Mediaa, we pride ourselves on delivering tailored solutions that drive results. With a focus on creativity and expertise, our dedicated team crafts customized strategies to meet your unique needs. Whether it’s captivating product photography, compelling real estate visuals, engaging digital video commercials, or strategic social media marketing, we’re here to elevate your brand and exceed your expectations. With a commitment to excellence and a passion for innovation, we are your trusted partner in achieving success.
           </motion.p>
           <br />
