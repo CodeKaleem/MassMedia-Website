@@ -37,7 +37,7 @@ export default function Blog2() {
         </motion.p>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 w-full md:w-3/4">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 w-full md:w-3/4 ">
         {[...Array(4)].map((_, index) => (
           <motion.div
             key={index}
