@@ -105,10 +105,4 @@ const card: React.CSSProperties = {
 const food: [string, number, number][] = [
     ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D",0, 900],
     ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 0, 0],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 60, 90],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 80, 120],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 100, 140],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 205, 245],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 260, 290],
-    ["https://images.unsplash.com/photo-1651600444588-54790c125d30?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8NGslMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D", 290, 320],
 ]
